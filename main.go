@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/JeanLouiseFinch/13_telnet/scanner"
+	"github.com/JeanLouiseFinch/otus13/scanner"
 )
 
 func main() {
